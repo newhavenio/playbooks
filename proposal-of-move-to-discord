@@ -1,0 +1,30 @@
+This is meant to be begin a formal PR process for consideration of moving to Discord from Slack as our main community application and form of communication and organization.
+
+See issue: https://github.com/newhavenio/playbooks/issues/1
+
+There are various pros and cons, summarized as something like:
+
+* Discord provides more features
+* Discord seems to be growing as a community product
+* Slack seems more business focused than community focused
+* Scrollback!!!
+
+
+Cons:
+
+* Some folks will not make the migration
+* Learning new moderation tools, managing the new app, etc
+* Need to let people know we're moving
+* Doing nothing is fine
+
+Anyway. This is not meant to be an inclusive argument for or against, but simply to put forth a source controllable conversation we can look back to and say: This is what we thought, and this is what we decided.
+
+Some organizations have wanted to move for quite some time, but inertia is a powerful force.
+
+Ultimately, the decision will come down to:
+
+What features do we gain from Discord (Scrollback, Voice chat, Screen sharing, Better moderation tools)
+vs
+What do we lose by moving (Current community, actual members, generational divide, etc.?)
+
+I don't know what form this document should take so this is a first stab at it.
